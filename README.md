@@ -4,7 +4,7 @@
 
 <img width="959" height="543" alt="image" src="https://github.com/user-attachments/assets/93399653-d218-4065-8365-ee2965f5f87d" />
 <br>
-Note: the silly names like "burner" or "pad" have been removed from this build - it has standard ui names like nozzle and bed.
+<i>Note: the silly names like "burner" or "pad" have been removed from this build - it has standard ui names like nozzle and bed.</i>
 <br>
 <br>
 
