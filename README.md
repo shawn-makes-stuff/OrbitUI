@@ -3,8 +3,10 @@
 <img width="2464" height="1267" alt="image" src="https://github.com/user-attachments/assets/e183dc2d-f583-4a5e-9dee-99694981bb64" />
 
 <img width="959" height="543" alt="image" src="https://github.com/user-attachments/assets/93399653-d218-4065-8365-ee2965f5f87d" />
+<br>
 Note: the silly names like "burner" or "pad" have been removed from this build - it has standard ui names like nozzle and bed.
-
+<br>
+<br>
 
 One-stop **Orbit UI distro** for [COSMOS firmware](https://github.com/OpenCentauri) on the Elegoo Centauri Carbon. A single installer that puts the Orbit look on both the printer's **touchscreen** and its **web interface**:
 
