@@ -1,5 +1,11 @@
 # OrbitUI
 
+<img width="2464" height="1267" alt="image" src="https://github.com/user-attachments/assets/e183dc2d-f583-4a5e-9dee-99694981bb64" />
+
+<img width="959" height="543" alt="image" src="https://github.com/user-attachments/assets/93399653-d218-4065-8365-ee2965f5f87d" />
+Note: the silly names like "burner" or "pad" have been removed from this build - it has standard ui names like nozzle and bed.
+
+
 One-stop **Orbit UI distro** for [COSMOS firmware](https://github.com/OpenCentauri) on the Elegoo Centauri Carbon. A single installer that puts the Orbit look on both the printer's **touchscreen** and its **web interface**:
 
 - **CosmosWeb** — the custom web dashboard, served at `/`. This distro ships two themes: **Orbit** (default) and **Default** (the stock COSMOS look). Mainsail stays installed at `/mainsail.html`.
